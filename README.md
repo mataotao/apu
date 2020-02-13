@@ -6,7 +6,7 @@
 # 架构
 ## go
 * 版本1.12以上
-* 框架**go-micro**
+* 框架**gin**
 * go modules 管理pkg
 
 ## redis
